@@ -1,0 +1,2 @@
+# Panotour
+Virtual Tour test
